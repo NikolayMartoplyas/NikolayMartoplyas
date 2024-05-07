@@ -3,7 +3,7 @@
 Я **Николай Мартопляс** QA-инженер(тестировщик)
 
 ### Вот что я умею
-* [Домашние задания по курсу "Инженер по тестированию"](https://github.com/NikolayMartoplyas/portfolio/tree/main/homework/homework%20list)
+* [Курсовой проект к модулю «Ручное тестирование веб-приложений»](https://github.com/NikolayMartoplyas/portfolio/tree/main/course%20work)
 
 ### Сертификаты Нетологии
 
