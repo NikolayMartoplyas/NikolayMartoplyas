@@ -11,5 +11,6 @@
 * [GIT - система контроля версий](https://github.com/NikolayMartoplyas/certificate/blob/main/GIT.jpg)
 * [JAVA для тестировщиков](https://github.com/NikolayMartoplyas/certificate/blob/main/JAVA.jpg)
 * [Автоматизированое тестирование](https://github.com/NikolayMartoplyas/certificate/blob/main/aunomated_testing_page-0001.jpg)
+* [JavaScript для тестировщиков](https://github.com/NikolayMartoplyas/certificate/blob/main/JS_page-0001.jpg)
   
 
