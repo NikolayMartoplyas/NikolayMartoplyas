@@ -4,6 +4,7 @@
 
 ### Вот что я умею
 * [Курсовой проект к модулю «Ручное тестирование веб-приложений»](https://github.com/NikolayMartoplyas/portfolio/tree/main/course%20work)
+* [Курсовой проект Автоматизация тестирования»](https://github.com/NikolayMartoplyas/cours-project)
 
 ### Сертификаты Нетологии
 
